@@ -1,0 +1,49 @@
+func:_wilddog_conn_on LINE: 584: observer path /
+func:_wilddog_conn_on LINE: 584: observer path /
+func:_wilddog_conn_on LINE: 584: observer path /motor
+func:_wilddog_conn_on LINE: 584: observer path /motor
+func:_wilddog_conn_on LINE: 584: observer path /
+func:_wilddog_conn_on LINE: 584: observer path /
+testing{"path":"~","motor":"20","camera":"1"}
+func:_wilddog_conn_on LINE: 584: observer path /
+testing{"path":"~","motor":"200","camera":"1"}
+func:_wilddog_conn_on LINE: 584: observer path /
+func:_wilddog_conn_on LINE: 584: observer path /
+testing{"path":"~","motor":"20","camera":"1"}
+20
+func:_wilddog_conn_on LINE: 584: observer path /
+func:_wilddog_conn_on LINE: 584: observer path /
+testing{"path":"~","motor":"200","camera":"1"}
+200
+func:_wilddog_conn_on LINE: 584: observer path /
+20
+func:_wilddog_conn_on LINE: 584: observer path /
+200
+func:_wilddog_conn_on LINE: 584: observer path /
+400
+func:_wilddog_conn_on LINE: 584: observer path /
+500
+func:_wilddog_conn_on LINE: 584: observer path /
+50
+func:_wilddog_conn_on LINE: 584: observer path /
+500
+func:_wilddog_conn_on LINE: 584: observer path /
+50
+func:_wilddog_conn_on LINE: 584: observer path /
+500
+func:_wilddog_conn_on LINE: 584: observer path /
+500
+func:_wilddog_conn_on LINE: 584: observer path /
+501
+func:_wilddog_conn_on LINE: 584: observer path /
+100
+func:_wilddog_conn_on LINE: 584: observer path /
+1000
+func:_wilddog_conn_on LINE: 584: observer path /
+10000
+func:_wilddog_conn_on LINE: 584: observer path /
+1000
+func:_wilddog_conn_on LINE: 584: observer path /
+10000
+func:_wilddog_conn_on LINE: 584: observer path /
+20000
