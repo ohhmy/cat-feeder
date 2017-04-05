@@ -36,7 +36,7 @@ APP_SECRET = '94cf4462fe9935adc18d34a036745a45'  # app secret
 CALLBACK_URL = 'https://api.weibo.com/oauth2/default.html'  # callback url
 AUTH_URL = 'https://api.weibo.com/oauth2/authorize'
 USERID = '15872364200'  # userid
-PASSWD = '1353991'  # password
+PASSWD = '*******'  # password
 
 dicts={
     0:u'午夜幽灵在此报时',
