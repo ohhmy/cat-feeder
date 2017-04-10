@@ -32,7 +32,7 @@ t_h = t_h_detector.read()
 
 #weibo
 APP_KEY = '888061270'  # app key
-APP_SECRET = '94cf4462fe9935adc18d34a036745a45'  # app secret
+APP_SECRET = '*******'  # app secret
 CALLBACK_URL = 'https://api.weibo.com/oauth2/default.html'  # callback url
 AUTH_URL = 'https://api.weibo.com/oauth2/authorize'
 USERID = '15872364200'  # userid
